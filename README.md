@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA)
 
-This repository contains my journey through learning Data Structures and Algorithms, following the "Code with Harry" course.
+This repository contains my journey through learning Data Structures and Algorithms, following the cousre on DSA by "Code with Harry".
 
 ## Repository Structure
 
@@ -17,7 +17,7 @@ The `Notes` folder contains comprehensive notes on DSA topics. These notes serve
 
 ## Course Reference
 
-All content in this repository is based on the "Code with Harry" DSA course. 
+All content in this repository is based on the DSA course by "Code with Harry". 
 
 ## How to Use This Repository
 
